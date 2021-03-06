@@ -4,7 +4,7 @@
 **rozaqiw/rozaqiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-I'm Abdul Rozaqi Wildan, currently studying at SMKN 1 Cimahi, majoring in Informatics, Networking, and Application System (SIJA), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Learner, and Good People :smiley:
+I'm Abdul Rozaqi Wildan, currently studying at SMKN 1 Cimahi, majoring in Informatics, Networking, and Application System (SIJA), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Cloud Computing.
 
 - 🌱 I’m currently learning Python, Capture The Flag
 - 💬 Ask me about ANYTHING! feel free to reach me
