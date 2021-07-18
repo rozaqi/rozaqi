@@ -6,7 +6,7 @@
 
 I'm Abdul Rozaqi Wildan, currently studying at SMKN 1 Cimahi, majoring in Informatics, Networking, and Application System (SIJA), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Cloud Computing.
 
-- 🌱 I’m currently learning Python, Capture The Flag
+- 🌱 I’m currently learning Cloud Computing and Capture The Flag
 - 💬 Ask me about ANYTHING! feel free to reach me
 - 📫 How to reach me: via E-mail (rozaqiwt@gmail.com)
 
