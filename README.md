@@ -10,7 +10,7 @@ I'm Abdul Rozaqi Wildan, currently studying at SMKN 1 Cimahi, majoring in Inform
 - 💬 Ask me about ANYTHING! feel free to reach me
 - 📫 How to reach me: via E-mail (rozaqiwt@gmail.com)
 
-I also have my [personal blog](https://rozaqi.medium.com/), you can check that out also to know more about me.
+I also have my [personal blog](https://blog.rozaqi.co/), you can check that out also to know more about me.
 
 **This is my personal repository**
 Feel free to check my repository, don't forget to notify me if you found something wrong or want to use my projects :grin:
