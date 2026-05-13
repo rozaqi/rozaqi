@@ -8,7 +8,6 @@ I'm Abdul Rozaqi Wildan, currently working at PT. Biznet Gio Nusantara as System
 
 - 🌱 I’m currently learning Cloud Computing and Capture The Flag
 - 💬 Ask me about ANYTHING! feel free to reach me
-- 📫 How to reach me: via E-mail (rozaqiwt@gmail.com)
 
 I also have my [personal blog](https://blog.rozaqi.co/), you can check that out also to know more about me.
 
